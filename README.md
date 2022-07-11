@@ -8,5 +8,4 @@ Updates made on master on Github before rebase
 
 ## Repository Purpose
 
-This will be a change that conflicts
-se editó localmente
+This file is just a README file.
